@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "./static/css/main.6eb18505.css",
+    "main.js": "./static/js/main.e09204e6.js",
+    "static/media/videoBg.mp4": "./static/media/videoBg.3a99741c4d776e59bb98.mp4",
+    "static/media/videoBg2.mp4": "./static/media/videoBg2.f82e10e2b12e65ad241e.mp4",
+    "static/media/atelie.png": "./static/media/atelie.8651ba4f90fae3415c28.png",
+    "static/media/projectEcommerce.png": "./static/media/projectEcommerce.353bb8de751b31c76bee.png",
+    "static/media/aboutImage.jpeg": "./static/media/aboutImage.209e24b281b488e4d955.jpeg",
+    "static/media/kevincurriculo.pdf": "./static/media/kevincurriculo.1b4e515bc491214329cf.pdf",
+    "static/media/capiLogo.svg": "./static/media/capiLogo.ef529c922dc90ad968838245e1cc7494.svg",
+    "index.html": "./index.html",
+    "main.6eb18505.css.map": "./static/css/main.6eb18505.css.map",
+    "main.e09204e6.js.map": "./static/js/main.e09204e6.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6eb18505.css",
+    "static/js/main.e09204e6.js"
+  ]
+}
